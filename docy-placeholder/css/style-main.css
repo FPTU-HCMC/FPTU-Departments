@@ -16136,7 +16136,7 @@ blockquote .author {
 
 /*=============== doc_footer_area css  ==============*/
 .doc_footer_top {
-  padding: 100px 0 90px;
+  padding: 50px 0 30px;
   background: #f9f9f9;
 }
 
@@ -16166,7 +16166,7 @@ blockquote .author {
   line-height: 30px;
   color: #6b707f;
   font-weight: 500;
-  margin-top: 15px;
+  margin-top: 0px;
 }
 .doc_about_widget ul {
   margin-bottom: 0;
